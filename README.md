@@ -1,6 +1,6 @@
 # lab1
 
-#Describe：
+Describe：
 A C++ program that can read in an integer and print out the corresponding sequence of
 numbers. 
 
