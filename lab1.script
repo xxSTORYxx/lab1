@@ -7,7 +7,7 @@ pd2vm
 Cloning into 'lab1'...
 fatal: unable to access 'https://github.com/xxSTORYxx/lab1.git/': Could not resolve host: github.com
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git cloe[Kneh[K https://github.com/xxSTORYxx/lab1.git
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone[Kneh[K https://github.com/xxSTORYxx/lab1.git
 Cloning into 'lab1'...
 warning: You appear to have cloned an empty repository.
 Checking connectivity... done.
