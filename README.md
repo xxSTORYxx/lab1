@@ -1,10 +1,13 @@
 # lab1
 
 
+
+
 Describe：
 
 A C++ program that can read in an integer and then print out the corresponding sequence of
 numbers. 
+
 
 
 
@@ -17,6 +20,7 @@ https://github.com/xxSTORYxx/lab1/blob/master/lab1.script
 Part B：
 
 https://github.com/xxSTORYxx/lab1/blob/master/running.script
+
 
 
 
