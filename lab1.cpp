@@ -5,7 +5,7 @@ int main ( void ){
 	int n;
 	cin >> n;
 	cout << n << " " << endl; 
-	while ( n != 1 ){
+	while ( n > 1 ){
 		if ( n % 2 == 1 ){
 			n = 3*n + 1;
 		}
