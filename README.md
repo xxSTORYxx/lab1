@@ -24,7 +24,7 @@ When entering a number,the program will distinguish whether the nuber is odd or 
 
 If the number is odd,the program will reset the number as '3 multiply the number then plus 1',else,it will be divided by 2.
 
-After that,the program will recheck the value of the number and repeat those steps until the number reach 1.
+After that,the program will again check the value of the number and repeat those steps until the number reaches 1.
 
 
 Example：
