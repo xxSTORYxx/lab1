@@ -1,5 +1,6 @@
-g++ -o LAB1 lab1.cpp
-./LAB1.cpp
+~ $ cd lab1
+~/lab1 $ g++ -o LAB1 lab1.cpp
+~/lab1 $ ./LAB1.cpp
 22
 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
 
