@@ -4,3 +4,11 @@ Describe：
 A C++ program that can read in an integer and print out the corresponding sequence of
 numbers. 
 
+How does it compile：
+Part A：
+lab1.script
+Part B：
+RunningScript.script
+
+Example：
+When entering a number 22,we can get a sequence：22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1.
