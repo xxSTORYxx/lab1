@@ -6,9 +6,9 @@ numbers.
 
 How does it compile：
 Part A：
-lab1.script
+https://github.com/xxSTORYxx/lab1/blob/master/lab1.script
 Part B：
-RunningScript.script
+https://github.com/xxSTORYxx/lab1/edit/master/RunningScript.script
 
 Example：
 When entering a number 22,we can get a sequence：22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1.
