@@ -7,6 +7,7 @@ A C++ program that can read in an integer and then print out the corresponding s
 numbers. 
 
 
+
 How does it compile：
 
 Part A：
@@ -16,6 +17,7 @@ https://github.com/xxSTORYxx/lab1/blob/master/lab1.script
 Part B：
 
 https://github.com/xxSTORYxx/lab1/blob/master/running.script
+
 
 
 Example：
